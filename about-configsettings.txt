@@ -1,0 +1,11 @@
+Firefox Empfehlungen Erweiterungen deaktivieren
+about:config
+extensions.htmlaboutaddons.recommendations.enabled = false
+extensions.getAddons.showPane = false 
+extensions.getAddons.cache.enabled = false 
+extensions.ui.lastCategory (click the trash can) 
+
+browser.translations.enable=false
+extensions.pocket.enabled 
+
+layout.css.devPixelsPerPx
